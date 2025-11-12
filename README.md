@@ -24,6 +24,8 @@ Takes input from users.
 Applies the same preprocessing.
 Loads the saved model.
 Predicts Loan Approval Status (Approved / Rejected).
+
+
 🔄 Workflow Diagram# bigmart_prediction
 flowchart LR
     A[📂 JSON Files] -->|Load with Python| B[(🗄️ MySQL Database)]
